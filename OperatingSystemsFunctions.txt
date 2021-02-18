@@ -4,3 +4,8 @@ Operating functions
 It is in charge of handling the systems input form a keybord and showing the outpout onto a device like mpnitor.
 This operation handles not just keyborads but all the input and output inforation in the correct oreder so that we can use our devices.
 It is the operation that reads the data and puts in in a form that we, the users, can see.
+
+2. File Manegment is another operation in witch the OS orginizes information in a way that is simple for a device to read.
+The purpose also to know where inforation is stored if a user has multiple hard drives in a system
+A food expalmple is i have most my computers information and data in Drive C but all my video games are download in Drive D.
+I have shorcut on my home screen that opens it with out having to go to my second hard.
