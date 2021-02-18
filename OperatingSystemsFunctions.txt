@@ -9,3 +9,7 @@ It is the operation that reads the data and puts in in a form that we, the users
 The purpose also to know where inforation is stored if a user has multiple hard drives in a system
 A food expalmple is i have most my computers information and data in Drive C but all my video games are download in Drive D.
 I have shorcut on my home screen that opens it with out having to go to my second hard.
+
+3. last of the many functions of an operating system is its abllity to detect erros.
+the OS constantly monitors the system if any occur it gives the user an error code feed so that we can then determin what happen.
+This gives us the abilty to adfress the issue and fix it so the system dose not malfuntion.
